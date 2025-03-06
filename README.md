@@ -26,7 +26,7 @@ The reading materials will be based on Sutton & Barto (2020): Reinforcement lear
 - **Hands-on Exploration** *(Optional)*: For those interested, we can discuss implementing key algorithms in Python.
 
 ## **Who Should Join?**
-This seminar is open to **anyone interested in reinforcement learning**, whether you're new to RL or already working on related research. No prior RL experience is required, but familiarity with basic machine learning concepts will be helpful.
+This seminar is open to **anyone interested in reinforcement learning**, whether you're new to RL or already working on related research. No prior RL experience is required, but familiarity with basic machine learning and deep learning concepts will be helpful.
 
 
 ---
