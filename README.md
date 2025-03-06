@@ -4,8 +4,11 @@ Join us for an engaging seminar hosted by the LARK Lab, where we explore the int
 
 This biweekly seminar, each lasting 75 minutes, will cover key topics in reinforcement learning (RL), following a structured reading of selected chapters from a foundational RL textbook. We will explore both theoretical foundations and practical applications, with discussions on how RL intersects with **NLP and healthcare AI**.
 
+
 ## **Schedule and Readings** (Tentative)
 The seminar will run **biweekly on Tuesday**, starting **March 18, 2025**. We will **skip the week of April 29** and conclude on **May 27, 2025**.
+
+The reading materials will be based on Sutton & Barto (2020): Reinforcement learning. 
 
 | **Date**        | **Topic**                                   | **Reading**                 |
 |---------------|----------------------------------|------------------------------|
