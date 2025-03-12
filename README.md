@@ -7,10 +7,12 @@ This biweekly seminar, each lasting 75 minutes, will cover key topics in reinfor
 If you are interested, please sign up and join our mailing list: [Google form](https://forms.gle/m3k5it3nXaecAwXB8)
 
 
+
+
 ## **Schedule and Readings** (Tentative)
 The seminar will run **biweekly on Tuesday**, starting **March 18, 2025**. We will **skip the week of April 29** and conclude on **May 27, 2025**.
 
-The reading materials will be based on Sutton & Barto (2020): Reinforcement learning. 
+The reading materials will be based on Sutton & Barto (2020): Reinforcement learning [online book](http://incompleteideas.net/book/RLbook2020.pdf). 
 
 | **Date**        | **Topic**                                   | **Reading**                 |
 |---------------|----------------------------------|------------------------------|
