@@ -8,7 +8,6 @@ If you are interested, please sign up and join our mailing list: [Google form](h
 
 
 
-
 ## **Schedule and Readings** (Tentative)
 The seminar will run **biweekly on Tuesday**, starting **March 18, 2025**. We will **skip the week of April 29** and conclude on **May 27, 2025**.
 
@@ -31,5 +30,15 @@ The reading materials will be based on Sutton & Barto (2020): Reinforcement lear
 This seminar is open to **anyone interested in reinforcement learning**, whether you're new to RL or already working on related research. No prior RL experience is required, but familiarity with basic machine learning and deep learning concepts will be helpful.
 
 
+# Citation
+All seminar slides were manually prepared by the LARK Lab. If you use or reference any of the materials, we kindly ask that you cite this repository using the BibTeX entry provided. 
+```
+@misc{gao2025larkrl,
+  author       = {Yanjun Gao},
+  title        = {LARK Lab Reinforcement Learning Seminar Spring 2025},
+  year         = {2025},
+  howpublished = {\url{https://github.com/LARK-NLP-Lab/Reinforcement_Learning_Seminar}},
+  note         = {GitHub repository, accessed: 2025-05-26}
+}``` 
 ---
 
